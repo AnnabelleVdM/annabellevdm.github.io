@@ -8,17 +8,53 @@ h1 {
 }
 
 h3 {
-	color:  #16104a;
-	font-size: 36px;
-	text-align: left;
+	color: #1153a6;
+	font-size: 75px;
 	font-family: "Raleway", sans-serif;
-	font-weight: 500;
-	margin-top: 5px;
+	font-weight:900 ;
+	text-align: center;
+	margin-bottom: 5px;
 }
 
-ul, body {
-	font-size: 20px;
+
+li {
+	display: inline-block;
+	list-style: none;
+	padding-right: 100px;
+	padding-left: 100px;
+	font-weight: 900px;
+}
+
+a {
+	font-size: 30px;
 	font-family: "Raleway", sans-serif;
 	color: #16104a;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #1153a6;
+	font-weight: 900;
+}
+
+p{
+	font-size: 20px;
+	font-family: "Raleway", sans-serif;
+	color: #1153a6;
+	text-decoration: none;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 15px;
+	border-style: solid;
+	border-color: #1153a6;
+	border-radius: 15px;
+}
+
+.home {
+	align-self: center;
 }
 
