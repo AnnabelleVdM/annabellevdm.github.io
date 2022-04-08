@@ -54,6 +54,25 @@ p{
 	border-radius: 15px;
 }
 
+.left {
+	display: block;
+	float: left;
+	border-width: 15px;
+	border-style: solid;
+	border-color: #1153a6;
+	border-radius: 15px;
+}
+
+
+.right {
+	display: block;
+	float: right;
+	border-width: 15px;
+	border-style: solid;
+	border-color: #1153a6;
+	border-radius: 15px;
+}
+
 .home {
 	align-self: center;
 }
